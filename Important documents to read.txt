@@ -1,0 +1,6 @@
+1 : This is Like C and Python
+2 : if else statement, switch case, loop(while,for,do-while) is completely simmilar to C programming Language
+3 : To take user value : prompt("Mesage");
+4 : To Print something on user web page : document.write();
+5 : To print something on console for developers use : console.log("Message");
+6 : Declare Variable in javascript use : var a; ----.Simmilar to Dart 
